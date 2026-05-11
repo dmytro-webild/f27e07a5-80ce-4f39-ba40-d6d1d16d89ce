@@ -118,7 +118,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         {
-          id: "basic",          badge: "Essential",          price: "$0/mo",          subtitle: "Essential shopping perks",          buttons: [
+          id: "basic",          badge: "Essential",          price: "$0/mo",          subtitle: "Perfect for frequent shoppers",          buttons: [
             {
               text: "Sign Up"},
           ],
