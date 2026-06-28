@@ -41,6 +41,7 @@ export default function LandingPage() {
           name: "Contact",          id: "contact"},
       ]}
       brandName="ShopCommerce"
+      enableGoogleAuth={true}
     />
   </div>
 
